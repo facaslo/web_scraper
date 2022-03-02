@@ -7,4 +7,3 @@ CREATE TABLE IF NOT EXISTS "user"(
 );
 
 INSERT INTO "user" VALUES ('test@email.com', 'test', '12345678');
-
